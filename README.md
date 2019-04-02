@@ -1,2 +1,8 @@
 # Rainfall-Thresholds
-Bayesian and Frequentist inference (using CTRL-T, Melillo et al.) on rainfall data from 2010 and 2016, to determine the Rainfall Thresholds for landslides  in Kalimpong, India. A total of 46 landslides were considered in the region surrounding the Tirpai Bazaar and Teesta rain gauges. E-D thresholds were calculated for the rainfall data.
+Determine Rainfall Thresholds for landslides, based on rainfall data from the years 2010-2016 in Kalimpong, India. The cumulative rainfall - duration (E-D) thresholds were calculated using (i) Bayesian statistical technique (Guzzetti et al.,2007) and (ii) Frequentist Method (Melillo et al.,2018), at different exceedance probabilities and their respective uncertainties. These thresholds are used to identify rainfall conditions responsible for the failures and might be implemented in an early warning system.
+
+### Bayesian Inference
+TBD
+
+### Frequentist Method
+TBD
